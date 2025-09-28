@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Full Stack Developer | 🌱 Exploring Machine Learning<br>🎓 Computer Engineering Graduate<br>🔭 Passionate about building scalable, impactful digital solutions<br>☁️ Always experimenting, always learning<br>🏆 Selected for Amazon ML Summer School 2025<br>🌟 Active Open Source Contributor<br>💼 Ex-Intern at Algoleap Technologies</p>
+<p align="left">💻 Full Stack Developer | 🌱 Exploring Machine Learning<br>🎓 Computer Engineering Graduate<br>🌟 Active Open Source Contributor</p>
 
 ###
 
